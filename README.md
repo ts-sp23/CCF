@@ -1,3 +1,5 @@
+**This fork adds a Dockerfile to build CCF in an attested container, see the attested_build folder**
+
 # The Confidential Consortium Framework [![Docs](https://img.shields.io/badge/Documentation-Up%20to%20date-green)](https://microsoft.github.io/CCF)
 
 <img alt="ccf" align="right" src="doc/_static/ccf.svg" width="200">
